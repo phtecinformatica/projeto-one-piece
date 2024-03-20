@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse projeto foi construido um page de seleção de personagem da série de mangá One Piece.
+Nesse projeto foi construido uma page de seleção de personagem da série de mangá One Piece.
 
 - [Acesse o projeto finalizado, online](https://phtecinformatica.github.io/projeto-one-piece/).
 
